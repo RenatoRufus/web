@@ -11,3 +11,10 @@ console.log(1+1) // Mais um exemplo de comentário
  */
 
 console.log('Passo #2')
+
+/*
+*
+* console.log é usado para imprimir na tela
+*
+*
+*/

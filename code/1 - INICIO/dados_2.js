@@ -1,7 +1,11 @@
+//let preco = 19.90
 let preco = 19.90
+//let desconto = 0.4
 let desconto = 0.4
 
-console.log(19.9 * 0.6) //valor literal
+//console.log(19.9 * 0.6) //valor literal
+console.log(19.90 * 0.6)
+
 
 console.log("preço e desconto\n")
 let precoDesconto = preco * (1 - desconto)

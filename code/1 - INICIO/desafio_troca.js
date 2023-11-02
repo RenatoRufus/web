@@ -8,9 +8,9 @@ console.log("Variável a tem valor...:\n " + a)
 console.log("Variável b tem valor...:\n " + b)
 
 //trocando valores
-let c = a
+let temp = a
 a = b
-b = c
+b = temp
 
 console.log("Efetuado troca de valores --->\n ")
 console.log("Variável a valor trocado...:\n " + a)
@@ -20,4 +20,10 @@ console.log("\n*** conferindo ***")
 
 console.log(a)
 console.log(b)
+
+/* troca de valores :
+
+[a, b] = [b, a]
+
+*/
 

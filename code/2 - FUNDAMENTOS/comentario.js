@@ -7,6 +7,16 @@ comentário de múltiplas linhas
 console.log('Linha 2')
 
 
+/*
+*
+*
+*
+*/
+
+
+
+
+ 
 
 
 

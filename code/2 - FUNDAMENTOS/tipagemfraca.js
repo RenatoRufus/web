@@ -1,3 +1,4 @@
+//Javascript tipagem fraca
 let qualquer = 'legal'
 
 console.log(qualquer)
@@ -13,4 +14,9 @@ let numero = 1
 
 let pqp = false //produto químico perigoso... kkkk
 
+let novo = "teste"
+console.log(novo)
+console.log(typeof novo)
 
+novo = 3.1615
+console.log(typeof novo)
